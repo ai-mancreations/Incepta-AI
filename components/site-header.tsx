@@ -108,19 +108,10 @@ export function SiteHeader() {
 
 function Logo() {
   return (
-    <span className="flex size-8 items-center justify-center rounded-lg bg-gradient-to-br from-brand to-brand-2 text-primary-foreground">
-      <svg
-        viewBox="0 0 24 24"
-        fill="none"
-        className="size-4.5"
-        aria-hidden="true"
-      >
-        <path
-          d="M12 2 3 20h4l5-11 5 11h4L12 2Z"
-          fill="currentColor"
-          className="text-background"
-        />
-      </svg>
-    </span>
+    <img
+      src="/logo/incepta-brain-mark.png"
+      alt="Incepta AI"
+      className="h-8 w-auto"
+    />
   )
 }

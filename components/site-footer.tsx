@@ -24,11 +24,11 @@ export function SiteFooter() {
         <div className="grid gap-10 lg:grid-cols-[1.4fr_repeat(4,1fr)]">
           <div>
             <div className="flex items-center gap-2.5">
-              <span className="flex size-8 items-center justify-center rounded-lg bg-gradient-to-br from-brand to-brand-2">
-                <svg viewBox="0 0 24 24" fill="none" className="size-4.5" aria-hidden="true">
-                  <path d="M12 2 3 20h4l5-11 5 11h4L12 2Z" className="fill-background" />
-                </svg>
-              </span>
+              <img
+                src="/logo/incepta-brain-mark.png"
+                alt="Incepta AI"
+                className="h-8 w-auto"
+              />
               <span className="text-base font-semibold tracking-tight">
                 Incepta AI
               </span>
