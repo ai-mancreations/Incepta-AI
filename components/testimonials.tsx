@@ -15,7 +15,7 @@ type Testimonial = {
 const TESTIMONIALS: Testimonial[] = [
   {
     quote:
-      'Axion Labs shipped our platform in record time without cutting corners. The architecture has scaled effortlessly as we grew 10x.',
+      'Incepta AI shipped our platform in record time without cutting corners. The architecture has scaled effortlessly as we grew 10x.',
     name: 'Sofia Marchetti',
     role: 'CTO, Vantage',
     initials: 'SM',

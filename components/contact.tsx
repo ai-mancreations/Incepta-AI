@@ -16,7 +16,7 @@ import {
 import { useState } from 'react'
 
 const CONTACT_METHODS = [
-  { icon: Mail, label: 'Email', value: 'hello@axionlabs.dev', href: 'mailto:hello@axionlabs.dev' },
+  { icon: Mail, label: 'Email', value: 'hello@incepta.ai', href: 'mailto:hello@incepta.ai' },
   { icon: Phone, label: 'Phone', value: '+1 (415) 555-0142', href: 'tel:+14155550142' },
   { icon: MessageCircle, label: 'WhatsApp', value: 'Chat with us', href: 'https://wa.me/14155550142' },
 ]
@@ -151,7 +151,7 @@ export function Contact() {
 
               <div className="relative flex-1 overflow-hidden rounded-2xl border border-border">
                 <iframe
-                  title="Axion Labs office location"
+                  title="Incepta AI office location"
                   className="h-full min-h-56 w-full grayscale"
                   loading="lazy"
                   referrerPolicy="no-referrer-when-downgrade"

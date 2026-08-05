@@ -30,7 +30,7 @@ export function SiteFooter() {
                 </svg>
               </span>
               <span className="text-base font-semibold tracking-tight">
-                Axion Labs
+                Incepta AI
               </span>
             </div>
             <p className="mt-4 max-w-xs text-sm leading-relaxed text-muted-foreground">
@@ -38,7 +38,7 @@ export function SiteFooter() {
               world-class digital products from idea to scale.
             </p>
             <p className="mt-4 text-sm text-muted-foreground">
-              hello@axionlabs.dev
+              hello@incepta.ai
             </p>
           </div>
 
@@ -65,7 +65,7 @@ export function SiteFooter() {
 
         <div className="mt-14 flex flex-col items-center justify-between gap-4 border-t border-border pt-8 sm:flex-row">
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Axion Labs. All rights reserved.
+            © {new Date().getFullYear()} Incepta AI. All rights reserved.
           </p>
           <p className="text-sm text-muted-foreground">
             Engineered with precision.

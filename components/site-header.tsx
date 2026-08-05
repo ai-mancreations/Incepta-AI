@@ -38,7 +38,7 @@ export function SiteHeader() {
         <a href="#top" className="flex items-center gap-2.5">
           <Logo />
           <span className="text-base font-semibold tracking-tight">
-            Axion Labs
+            Incepta AI
           </span>
         </a>
 
