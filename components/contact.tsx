@@ -16,9 +16,9 @@ import {
 import { useState } from 'react'
 
 const CONTACT_METHODS = [
-  { icon: Mail, label: 'Email', value: 'hello@incepta.ai', href: 'mailto:hello@incepta.ai' },
-  { icon: Phone, label: 'Phone', value: '+1 (415) 555-0142', href: 'tel:+14155550142' },
-  { icon: MessageCircle, label: 'WhatsApp', value: 'Chat with us', href: 'https://wa.me/14155550142' },
+  { icon: Mail, label: 'Email', value: 'dessignwithme@gmail.com', href: 'mailto:dessignwithme@gmail.com' },
+  { icon: Phone, label: 'Phone', value: '+91 8688529938', href: 'tel:+918688529938' },
+  { icon: MessageCircle, label: 'WhatsApp', value: 'Chat with us', href: 'https://wa.me/8688529938' },
 ]
 
 const SOCIALS = [
