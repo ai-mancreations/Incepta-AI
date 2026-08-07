@@ -10,13 +10,13 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://axionlabs.dev'),
+  metadataBase: new URL('https://incepta-ai.dev'),
   title: {
-    default: 'Axion Labs — We Build Digital Products That Scale',
-    template: '%s · Axion Labs',
+    default: 'Incepta AI — We Build Digital Products That Scale',
+    template: '%s · Incepta AI',
   },
   description:
-    'Axion Labs is a product engineering and AI solutions company. We design, develop, and scale custom web, mobile, AI, and cloud products from idea to launch.',
+    'Incepta AI is a product engineering and AI solutions company. We design, develop, and scale custom web, mobile, AI, and cloud products from idea to launch.',
   keywords: [
     'product engineering',
     'AI solutions',
@@ -26,17 +26,17 @@ export const metadata: Metadata = {
     'cloud & DevOps',
     'custom software',
   ],
-  authors: [{ name: 'Axion Labs' }],
+  authors: [{ name: 'Incepta AI' }],
   openGraph: {
-    title: 'Axion Labs — We Build Digital Products That Scale',
+    title: 'Incepta AI — We Build Digital Products That Scale',
     description:
       'Product engineering and AI solutions company building world-class digital products.',
     type: 'website',
-    siteName: 'Axion Labs',
+    siteName: 'Incepta AI',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Axion Labs — We Build Digital Products That Scale',
+    title: 'Incepta AI — We Build Digital Products That Scale',
     description:
       'Product engineering and AI solutions company building world-class digital products.',
   },
